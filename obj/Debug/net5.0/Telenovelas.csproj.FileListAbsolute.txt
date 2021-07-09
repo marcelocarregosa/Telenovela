@@ -1,0 +1,16 @@
+C:\workspace\Telenovelas\bin\Debug\net5.0\Telenovelas.exe
+C:\workspace\Telenovelas\bin\Debug\net5.0\Telenovelas.deps.json
+C:\workspace\Telenovelas\bin\Debug\net5.0\Telenovelas.runtimeconfig.json
+C:\workspace\Telenovelas\bin\Debug\net5.0\Telenovelas.runtimeconfig.dev.json
+C:\workspace\Telenovelas\bin\Debug\net5.0\Telenovelas.dll
+C:\workspace\Telenovelas\bin\Debug\net5.0\ref\Telenovelas.dll
+C:\workspace\Telenovelas\bin\Debug\net5.0\Telenovelas.pdb
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.csprojAssemblyReference.cache
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.AssemblyInfoInputs.cache
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.AssemblyInfo.cs
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.csproj.CoreCompileInputs.cache
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.dll
+C:\workspace\Telenovelas\obj\Debug\net5.0\ref\Telenovelas.dll
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.pdb
+C:\workspace\Telenovelas\obj\Debug\net5.0\Telenovelas.genruntimeconfig.cache
